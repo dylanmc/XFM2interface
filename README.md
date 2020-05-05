@@ -39,6 +39,8 @@ If you're using platformio, it should download the dependencies for you. If you'
 
 The left knob cycles among the presets. I believe the XFM2 has about 17 built-in presets and the remaining 110 are ours for the taking. The middle knob cycles among the parameters. The top line of the display shows the preset you're on, followed by the parameter index. The second line is the text description of the current parameter. The third knob changes the value of that parameter, and the third line of the display shows that value.
 
+Here's a video of it in action: https://youtu.be/cFyvukHJkQk
+
 ## Future work
 
 There is a TODO of things I'd like to do, but at a high level, I'd like to enable more control of the XFM2 via the knobs.
