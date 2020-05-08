@@ -1,10 +1,11 @@
-# A simple, Arduino-based XFM2 front panel
+# A simple Arduino-based XFM2 front panel
 
 ## Introduction
 
-I built a Futur3soundz synthesizer using instructions here: https://www.futur3soundz.com/xfm2
-I got the parts from Mouser, total was about $100, which isn't at all bad given the capabilities
-of the synthesizer when you're done: "64-voice, 2-part, 6-operator FM Synthesizer with built-in effects processor"
+The Futur3soundz synthesizer is an FPGA-based, "64-voice, 2-part, 6-operator FM Synthesizer with built-in effects processor".
+The instructions for building one are here: https://www.futur3soundz.com/xfm2
+The parts are available from Mouser, total was about $100, which isn't at all bad given the capabilities
+of the synthesizer.
 
 When complete, you can plug it in to a MIDI controller to both play notes and control the voices, or you can
 connect to it over serial at 500,000 baud (8N1) and send XFM2-specific commands.
